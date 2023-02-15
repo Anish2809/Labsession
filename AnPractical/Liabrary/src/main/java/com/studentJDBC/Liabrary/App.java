@@ -108,7 +108,7 @@ public static void add() { // creating add method
 	    	System.out.println("1.add  2.Update  3.Delete  4.show-library");
 	    	int userInput = sc.nextInt(); // taking input from user
 	    	
-	    	switch(userInput) { // perform operation as per cases
+	    	switch(userInput) { // as per cases
 	    	case 1: add(); // calling methods
 	    	break;
 	    	
